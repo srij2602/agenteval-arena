@@ -2,7 +2,7 @@
 
 **A Retrieval-Augmented Generation (RAG) system over the EU AI Act, built from scratch with local open-source models - and evaluated step by step to show which techniques actually help.**
 
-**Live demo:** _add your Hugging Face Space link here_ (retrieval demo; answer generation runs locally with Ollama)
+**Live demo:** [srij2602-agenteval-arena-app-cqx0q0.streamlit.app](https://srij2602-agenteval-arena-app-cqx0q0.streamlit.app) (retrieval demo; answer generation runs locally with Ollama)
 
 Most RAG demos show that a chatbot *answers*. This project measures whether the system finds the *right evidence*, and shows with numbers which retrieval techniques improve it - and which do not.
 
