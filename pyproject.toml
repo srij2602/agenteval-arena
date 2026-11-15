@@ -1,0 +1,18 @@
+[project]
+name = "agenteval-arena"
+version = "0.1.0"
+description = "RAG over the EU AI Act with retrieval evaluation"
+readme = "README.md"
+authors = [
+    { name = "Srijita", email = "srijitaacharyya42@gmail.com" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "numpy>=2.5.4",
+    "ollama>=0.6.3",
+    "pypdf>=7.0.0",
+    "rank-bm25>=0.2.2",
+    "sentence-transformers>=6.2.0",
+    "streamlit>=1.67.0",
+]
+

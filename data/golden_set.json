@@ -1,0 +1,22 @@
+[
+  {"id": 1, "question": "What is the maximum fine for using a prohibited AI practice?", "article": "99", "answer": "Up to EUR 35 million or 7% of total worldwide annual turnover, whichever is higher."},
+  {"id": 2, "question": "What does Article 4 of the EU AI Act require?", "article": "4", "answer": "Providers and deployers must ensure a sufficient level of AI literacy among their staff."},
+  {"id": 3, "question": "Is emotion recognition allowed in the workplace?", "article": "5", "answer": "No, it is prohibited, except for medical or safety reasons."},
+  {"id": 4, "question": "Is social scoring of people by AI allowed?", "article": "5", "answer": "No, social scoring leading to detrimental or unfavourable treatment is a prohibited practice."},
+  {"id": 5, "question": "Must users be told when they are talking to a chatbot?", "article": "50", "answer": "Yes, providers must ensure people are informed they are interacting with an AI system, unless obvious."},
+  {"id": 6, "question": "Do deepfakes have to be disclosed?", "article": "50", "answer": "Yes, deployers must disclose that the content has been artificially generated or manipulated."},
+  {"id": 7, "question": "What are the human oversight requirements for high-risk AI systems?", "article": "14", "answer": "High-risk systems must be designed so natural persons can effectively oversee them while in use."},
+  {"id": 8, "question": "Do high-risk AI systems need to keep logs?", "article": "12", "answer": "Yes, they must technically allow automatic recording of events (logs) over their lifetime."},
+  {"id": 9, "question": "What requirements apply to training data for high-risk AI systems?", "article": "10", "answer": "Training, validation and testing data must meet data governance and quality criteria."},
+  {"id": 10, "question": "What does the Act say about accuracy, robustness and cybersecurity?", "article": "15", "answer": "High-risk systems must achieve an appropriate level of accuracy, robustness and cybersecurity."},
+  {"id": 11, "question": "Who must carry out a fundamental rights impact assessment?", "article": "27", "answer": "Certain deployers of high-risk AI systems, such as bodies governed by public law, before deployment."},
+  {"id": 12, "question": "Do providers have to report serious incidents?", "article": "73", "answer": "Yes, providers of high-risk AI systems must report serious incidents to market surveillance authorities."},
+  {"id": 13, "question": "Do people have a right to an explanation of AI-assisted decisions about them?", "article": "86", "answer": "Yes, affected persons have a right to an explanation of certain decisions based on high-risk AI output."},
+  {"id": 14, "question": "When does the AI Act start to apply?", "article": "113", "answer": "Generally from 2 August 2026, with some parts earlier (e.g. prohibitions from 2 February 2025)."},
+  {"id": 15, "question": "What fines can be imposed on providers of general-purpose AI models?", "article": "101", "answer": "Up to 3% of total worldwide annual turnover or EUR 15 million, whichever is higher."},
+  {"id": 16, "question": "How does the Act define an AI system?", "article": "3", "answer": "A machine-based system designed to operate with varying autonomy that infers from input how to generate outputs."},
+  {"id": 17, "question": "Does the AI Act apply to AI used exclusively for military purposes?", "article": "2", "answer": "No, AI systems used exclusively for military, defence or national security purposes are excluded."},
+  {"id": 18, "question": "What must providers of general-purpose AI models document and publish?", "article": "53", "answer": "Technical documentation, information for downstream providers, a copyright policy and a summary of training content."},
+  {"id": 19, "question": "How much does a CE marking certificate cost under the AI Act?", "article": null, "answer": "Not covered by the Act."},
+  {"id": 20, "question": "What is the fine for a GDPR data breach under the AI Act?", "article": null, "answer": "Not covered by the AI Act; GDPR fines are set by the GDPR."}
+]

@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environment
+.venv
+
+# Secrets - never commit
+.env
+.streamlit/secrets.toml
+
+# Editor / OS
+.vscode/
+Thumbs.db
+
+# Screenshots and scratch
+*.png
+Claude outputs/
